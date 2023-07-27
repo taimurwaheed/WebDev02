@@ -1,0 +1,30 @@
+ol {
+    border: 1px solid;
+    background-color: black;
+    margin-top: 0px;
+}
+
+li {
+    border: outset lightblue;
+    background-color: bisque;
+    height: 40px;
+    color: white;
+    font-size: 25px;
+    font-family: Arial;
+    padding: 0 15px;
+}
+
+a {
+    color: black;
+}
+
+h1 {
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(114, 88, 88);
+    color: white;
+    font-family: Arial;
+    font-size: 85px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
